@@ -3,6 +3,8 @@
 ### Writing Charters for your Exploratory Testing Sessions
 #### Elizabeth Zagroba
 
+Let's Test South Africa 2019
+
 ===
 
 ![Me with an umbrella!](/images/umbrella.JPG "Me with an umbrella")
