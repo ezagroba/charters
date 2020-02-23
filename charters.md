@@ -41,7 +41,7 @@ Get into pairs (or groups of three)
 ### What is a charter?
 
 - Help you design your testing
-- Uncover new questions --> plan for more tests
+- Uncover new questions => plan for more tests
 - Generally three parts
 
 ===
@@ -88,7 +88,17 @@ Get into pairs (or groups of three)
 
 ===
 
-### Wandering: Here We Go
+### Wandering together: Here We Go
+[https://wego.here.com/](https://wego.here.com/)  
+
+Backup screenshots in case of internet failure:
+
+- [Settings menu](/images/sidebar.PNG)
+- [Map view](/images/brighton.JPG)
+
+===
+
+### Wandering in pairs/groups: Here We Go
 [https://wego.here.com/](https://wego.here.com/)  
 
 Take enough notes to remember what you saw so that we can write charters (and then explore) later.
@@ -122,17 +132,23 @@ Differences between yours and your pair/group
 
 - Explore uploading different file types with the UI to discover if the error message is accurate.
 
+===
+
+## Explore one charter together
+
 
 ===
 
 ## Exchange charters
-### Choose one for everyone at your table to execute
 
 ===
 
-### Exploring 
+<img src="/images/wtaf.PNG" alt="WTAF heuristic" />
 
-Work with your pair/group.
+===
+
+### Exploring in pairs/groups
+
 If you find something outside your current scope, write a new charter for later.
 
 - <span class="blue">*target*</span>: where you’re exploring
@@ -155,7 +171,33 @@ If you find something outside your current scope, write a new charter for later.
 
 ===
 
+## Collect and model risks in pairs/groups
+
+Use the papers on your tables to think about risk.
+
+===
+
+## Risks
+
+### debrief with everybody
+
+===
+
+## Write charters for a user story
+
+Given the user story, write some charters for it in pairs/groups.
+
+===
+
+## User story charters
+### debrief with everybody
+
+===
+
 ## Retrospective
+
+- something you learned
+- something you'd change
 
 ===
 

@@ -27,7 +27,7 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<div class="footer-right"><i class="fab fa-twitter"></i><a href="https://twitter.com/ezagroba"> @ezagroba</a></div>
+				<div class="footer-right"><i class="fab fa-twitter"></i><a href="https://twitter.com/ezagroba"> @ezagroba</a> <a href="https://twitter.com/search?q=testbash">#TestBash</a></div>
 				<section data-markdown="charters.md"
          data-separator="^\n===\n"
          data-separator-vertical="^\n---\n"
@@ -45,6 +45,7 @@
 
 		<script>
 Reveal.initialize({
+	hash: true,
 	dependencies: [
 		// Interpret Markdown in <section> elements
 		{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
