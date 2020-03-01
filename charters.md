@@ -13,7 +13,7 @@
 
 Get into pairs (or groups of three)  
 
-🗣️ Sharer: Spend a minute describing a recent photo on your phone 
+🗣️ Sharer: Spend a minute describing a recent photo on your phone without showing it to your pair/group.
 
 ✍️ Listener(s): Write down specific questions; ask the most important one.
 
