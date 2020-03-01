@@ -13,7 +13,7 @@
 
 Get into pairs (or groups of three)  
 
-🗣️ Sharer: Spend a minute describing a recent photo on your phone without showing it to your pair/group.
+🗣️ Sharer: Spend one minute describing a recent photo on your phone without showing it to your pair/group.
 
 ✍️ Listener(s): Write down specific questions; ask the most important one.
 
@@ -124,7 +124,7 @@ Differences between yours and your pair/group
 ## Charter writing
 ### debrief
 
-===
+---
 
 ## Explore <span class="blue">target</span> with <span class="green">resources</span> to discover <span class="red">information</span>.
 
@@ -180,6 +180,18 @@ Use the papers on your tables to think about risk.
 ## Risks
 
 ### debrief with everybody
+
+===
+
+## User story example
+
+### [Implement POST endpoint](https://mendix.atlassian.net/browse/PC-616)
+
+Conversations in person and in Slack: 
+- which fields are required?
+- what happens with a duplicate name?
+- will there be GET or DELETE endpoints to verify or clean up data?
+- what should be the limit on the description field?
 
 ===
 
