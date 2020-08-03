@@ -5,21 +5,35 @@
 
 ===
 
-![Me with an umbrella!](/images/umbrella.JPG "Me with an umbrella")
+![Me with an umbrella!](images/umbrella.JPG "Me with an umbrella")
+
+===
+
+### Zoom orientation
+
+🔗 Whiteboard has links
+
+🙈🔇 Slides: camera & mics off, raise hand
+
+🎬🎙️ Discussion: cameras on/mic if talking
+
+🎬📣 Breakout exercises: cameras & mics on
+
+🚣😰 Lost? Main room, post in chat
 
 ===
 
 ### Photo exercise
 
-Get into pairs (or groups of three)  
+Breakout rooms in pairs or groups of three  
 
-🗣️ Sharer: Spend a minute describing a recent photo on your phone 
+🗣️ Sharer: 1 minute, describe a photo
 
-✍️ Listener(s): Write down specific questions; ask the most important one.
+✍️ Listener(s): Write down specific questions, ask one
 
-📲 Sharer: Show the listener(s) the photo.
+📲 Sharer: Share screen to show photo
 
-🔄 Switch who's the sharer and who's the listener.
+🔄 Switch sharer & listener
 
 
 ===
@@ -31,6 +45,7 @@ Get into pairs (or groups of three)
 
 ### What is exploring?
 
+- It's never possible to specify all the requirements.
 - Wandering + Purpose = Exploring
 - Wandering - Purpose = Lost
 - If you don’t use what you find, don’t explore.
@@ -41,7 +56,7 @@ Get into pairs (or groups of three)
 ### What is a charter?
 
 - Help you design your testing
-- Uncover new questions --> plan for more tests
+- Uncover new questions => plan for more tests
 - Generally three parts
 
 ===
@@ -91,13 +106,13 @@ Get into pairs (or groups of three)
 ### Wandering: Here We Go
 [https://wego.here.com/](https://wego.here.com/)  
 
-Take enough notes to remember what you saw so that we can write charters (and then explore) later.
+Take enough notes to remember what you saw so that we can write charters next.
 
 ===
 
 ### Write some charters
 
-Spend a few minutes writing charters  by yourself.  
+Spend two minutes writing charters  by yourself.  
 
 - <span class="blue">*target*</span>: where you’re exploring
 - <span class="green">*resources*</span>: what you’re using/how you’re exploring
@@ -105,14 +120,31 @@ Spend a few minutes writing charters  by yourself.
 
 ===
 
-## Compare charters
-
-Differences between yours and your pair/group
+## Charter writing
+### debrief
 
 ===
 
-## Charter writing
-### debrief
+### Exploring 
+
+If we find something outside the current scope, we'll write a new charter for later.
+
+- <span class="blue">*target*</span>: where you’re exploring
+- <span class="green">*resources*</span>: what you’re using/how you’re exploring
+- <span class="red">*information*</span>: what question you want to answer
+
+===
+
+## Exploring
+### debrief 
+
+===
+
+## {TBD} User story & charters from my experience
+
+===
+
+## {TBD} User story for Here We Go
 
 ===
 
@@ -122,44 +154,31 @@ Differences between yours and your pair/group
 
 - Explore uploading different file types with the UI to discover if the error message is accurate.
 
+===
+
+## Here We Go user story charter
+### debrief
+
 
 ===
 
-## Exchange charters
-### Choose one for everyone at your table to execute
-
-===
-
-### Exploring 
-
-Work with your pair/group.
-If you find something outside your current scope, write a new charter for later.
-
-- <span class="blue">*target*</span>: where you’re exploring
-- <span class="green">*resources*</span>: what you’re using/how you’re exploring
-- <span class="red">*information*</span>: what question you want to answer
-
-===
-
-### Reflect with your table
-
-- Did you stick to the mission?
-- Did you complete the charter?
-- What else do you want to test now?
-- What could you test given more tools, time, data, expertise, etc.?
-
-===
-
-## Exploring
-### debrief with everybody
+## 🤔 Questions?
 
 ===
 
 ## Retrospective
 
+Post in the chat:
+
+💡 Something you learned
+
+🙅🏽 Change about workshop
+
+📝 Charter for your product
+
 ===
 
-## Thank you.
+## 🙏 Thank you.
 
 ===
 
