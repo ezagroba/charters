@@ -5,13 +5,13 @@
 
 ===
 
-![Me with an umbrella!](images/umbrella.JPG "Me with an umbrella")
+![Elizabeth's work experience](images/ez-mindmap.png)
 
 ===
 
 ### Zoom orientation
 
-🔗 Whiteboard has links
+🔗 [Post things on Miro board](https://miro.com/welcomeonboard/Qy0eqnre9S0Ru8BQFtWAQ0CAXvfZxFflJwrj7i1oy6fFiYkwG9p0p0g2UvnblI94)
 
 🙈🔇 Slides: camera & mics off, raise hand
 
@@ -31,7 +31,7 @@ Breakout rooms in pairs or groups of three
 
 ✍️ Listener(s): Write down specific questions, ask one
 
-📲 Sharer: Share screen to show photo
+📲 Sharer: Post photo to board
 
 🔄 Switch sharer & listener
 
@@ -140,13 +140,26 @@ If we find something outside the current scope, we'll write a new charter for la
 
 ===
 
-## {TBD} User story & charters from my experience
+### Pull up the user story and charters from the recent PUT API call my team made
 
 ===
 
-## {TBD} User story for Here We Go
+### User story for Here We Go: Construction
+
+As a driver or cyclist, I want to see the location and details of planned road construction and closures on the traffic view so I can plan my route.
 
 ===
+
+### User story: Acceptance Criteria
+
+- Display the road construction and closure icons for zoom level 14 and lower.
+- Use numbers to aggregate roadworks concentrated in a particular area.
+- Selecting a particular construction icon provides details about the start and end times.
+- For road closures, use  a red circle with a horizontal white bar.
+- For road construction, use a red diamond with a white person digging.
+
+===
+
 
 ## Explore <span class="blue">target</span> with <span class="green">resources</span> to discover <span class="red">information</span>.
 
@@ -168,7 +181,7 @@ If we find something outside the current scope, we'll write a new charter for la
 
 ## Retrospective
 
-Post in the chat:
+Post on the Miro board:
 
 💡 Something you learned
 
@@ -182,7 +195,7 @@ Post in the chat:
 
 ===
 
-### Resources
+### Resources about charters
 
 - Mendix is hiring in The Netherlands!
 - [*Explore It! Reduce Risk and Increase Confidence with Exploratory Testing* by Elisabeth Hendrickson](https://www.goodreads.com/book/show/15980494-explore-it)
@@ -190,3 +203,13 @@ Post in the chat:
 - ["CDMET: a mnemonic for generating exploratory testing charters" by Marcel Gehlen](https://thatsthebuffettable.blogspot.com/2017/06/cdmet-mnemonic-for-generating.html)
 - ["Writing Exploratory Charters" by Chris Kenst](https://github.com/ckenst/testing-guides/blob/master/test%20design/writing_exploratory_charters.md)
 
+
+===
+
+
+### Resources about exploratory testing
+
+- ["A Heuristic for Regression Testing" by Karen Johnson](http://karennicolejohnson.com/2009/11/a-heuristic-for-regression-testing/)
+- ["Blog: When Do We Stop A Test?" by Michael Bolton](https://www.developsense.com/blog/2009/09/when-do-we-stop-test/)
+- ["Testing Without a Map" by Michael Bolton](https://www.developsense.com/articles/2005-01-TestingWithoutAMap.pdf)
+- ["If a test falls in a forest..." by Elizabeth Zagroba](https://elizabethzagroba.com/posts/2020/2020-05-24_if_a_test_falls_in_a_forest/)
