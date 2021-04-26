@@ -11,7 +11,7 @@
 
 ### Zoom orientation
 
-🔗 [Post things on Miro board](https://miro.com/welcomeonboard/Qy0eqnre9S0Ru8BQFtWAQ0CAXvfZxFflJwrj7i1oy6fFiYkwG9p0p0g2UvnblI94)
+🔗 [Post things in Workflowy](https://workflowy.com/#/6206aad00b5f)
 
 🙈🔇 Slides: camera & mics off, raise hand
 
@@ -23,7 +23,7 @@
 
 ===
 
-### Photo exercise
+### 1. Photo exercise
 
 Breakout rooms in pairs or groups of three  
 
@@ -38,7 +38,7 @@ Breakout rooms in pairs or groups of three
 
 ===
 
-## Photo exercise 
+## 1. Photo exercise 
 ### debrief
 
 ===
@@ -103,14 +103,14 @@ Breakout rooms in pairs or groups of three
 
 ===
 
-### Wandering: Here We Go
+### 2. Wandering: Here We Go
 [https://wego.here.com/](https://wego.here.com/)  
 
 Take enough notes to remember what you saw so that we can write charters next.
 
 ===
 
-### Write some charters
+### 3. Write some charters
 
 Spend two minutes writing charters  by yourself.  
 
@@ -120,14 +120,14 @@ Spend two minutes writing charters  by yourself.
 
 ===
 
-## Charter writing
+## 3. Charter writing
 ### debrief
 
 ===
 
-### Exploring 
+### 4. Exploring 
 
-If we find something outside the current scope, we'll write a new charter for later.
+If you find something outside the current scope, write a new charter for later.
 
 - <span class="blue">*target*</span>: where you’re exploring
 - <span class="green">*resources*</span>: what you’re using/how you’re exploring
@@ -135,7 +135,7 @@ If we find something outside the current scope, we'll write a new charter for la
 
 ===
 
-## Exploring
+## 4. Exploring
 ### debrief 
 
 ===
@@ -144,13 +144,13 @@ If we find something outside the current scope, we'll write a new charter for la
 
 ===
 
-### User story for Here We Go: Construction
+### 5. User story for Here We Go: Construction
 
 As a driver or cyclist, I want to see the location and details of planned road construction and closures on the traffic view so I can plan my route.
 
 ===
 
-### User story: Acceptance Criteria
+### 5. User story: Acceptance Criteria
 
 - Display the road construction and closure icons for zoom level 14 and lower.
 - Use numbers to aggregate roadworks concentrated in a particular area.
@@ -169,7 +169,7 @@ As a driver or cyclist, I want to see the location and details of planned road c
 
 ===
 
-## Here We Go user story charter
+## 5. Here We Go user story charter
 ### debrief
 
 
@@ -179,9 +179,9 @@ As a driver or cyclist, I want to see the location and details of planned road c
 
 ===
 
-## Retrospective
+## 6. Retrospective
 
-Post on the Miro board:
+Post in Workflowy:
 
 💡 Something you learned
 
